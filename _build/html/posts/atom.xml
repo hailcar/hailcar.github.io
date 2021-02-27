@@ -2,67 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://mywebsiteurl.com</id>
   <title>Ruby Hammerhead</title>
-  <updated>2021-02-27T09:41:20.964567+00:00</updated>
+  <updated>2021-02-27T10:59:52.854164+00:00</updated>
   <link href="https://mywebsiteurl.com"/>
   <link href="https://mywebsiteurl.com/posts/atom.xml"/>
   <generator uri="https://ablog.readthedocs.org" version="0.10.13">ABlog</generator>
-  <entry>
-    <id>https://mywebsiteurl.com/posts/2021/02/text.html</id>
-    <title>text</title>
-    <updated>2021-02-27T00:00:00+08:00</updated>
-    <author>
-      <name>Hailing</name>
-    </author>
-    <content type="html">&lt;div class="section" id="text"&gt;
-
-&lt;table class="colwidths-given table" id="id1"&gt;
-&lt;caption&gt;&lt;span class="caption-text"&gt;Frozen Delights!&lt;/span&gt;&lt;/caption&gt;
-&lt;colgroup&gt;
-&lt;col style="width: 27%" /&gt;
-&lt;col style="width: 18%" /&gt;
-&lt;col style="width: 55%" /&gt;
-&lt;/colgroup&gt;
-&lt;thead&gt;
-&lt;tr class="row-odd"&gt;&lt;th class="head"&gt;&lt;p&gt;Treat&lt;/p&gt;&lt;/th&gt;
-&lt;th class="head"&gt;&lt;p&gt;Quantity&lt;/p&gt;&lt;/th&gt;
-&lt;th class="head"&gt;&lt;p&gt;Description&lt;/p&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr class="row-even"&gt;&lt;td&gt;&lt;p&gt;Albatross&lt;/p&gt;&lt;/td&gt;
-&lt;td&gt;&lt;p&gt;2.99&lt;/p&gt;&lt;/td&gt;
-&lt;td&gt;&lt;p&gt;On a stick!&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="row-odd"&gt;&lt;td&gt;&lt;p&gt;Crunchy Frog&lt;/p&gt;&lt;/td&gt;
-&lt;td&gt;&lt;p&gt;1.49&lt;/p&gt;&lt;/td&gt;
-&lt;td&gt;&lt;p&gt;If we took the bones out, it wouldn’t be
-crunchy, now would it?&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="row-even"&gt;&lt;td&gt;&lt;p&gt;Gannet Ripple&lt;/p&gt;&lt;/td&gt;
-&lt;td&gt;&lt;p&gt;1.99&lt;/p&gt;&lt;/td&gt;
-&lt;td&gt;&lt;p&gt;On a stick!&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;table class="colwidths-auto table" id="id2"&gt;
-&lt;caption&gt;&lt;span class="caption-text"&gt;Truth table for “not”&lt;/span&gt;&lt;/caption&gt;
-&lt;thead&gt;
-&lt;tr class="row-odd"&gt;&lt;th class="head"&gt;&lt;p&gt;A&lt;/p&gt;&lt;/th&gt;
-&lt;th class="head"&gt;&lt;p&gt;not A&lt;/p&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr class="row-even"&gt;&lt;td&gt;&lt;p&gt;False&lt;/p&gt;&lt;/td&gt;
-&lt;td&gt;&lt;p&gt;True&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class="row-odd"&gt;&lt;td&gt;&lt;p&gt;True&lt;/p&gt;&lt;/td&gt;
-&lt;td&gt;&lt;p&gt;False&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/div&gt;
-</content>
-    <link href="https://mywebsiteurl.com/posts/2021/02/text.html" rel="alternate"/>
-    <published>2021-02-27T00:00:00+08:00</published>
-  </entry>
 </feed>
